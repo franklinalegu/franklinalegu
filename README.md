@@ -27,52 +27,20 @@ Software Engineer product focused. I design, build and ship from brand systems t
 
 ### Featured start here
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### [NODAL](https://github.com/franklinalegu/nodal) <sup>`TypeScript`</sup>
-`Next.js 14` `Tauri` `XYFlow` `Zustand`
-
-Private node studio. Canvas is the product, AI is the intelligence layer.
-
-- 19 nodes Brief to Research to Moodboard to Export
-- Infinite canvas autosave branching undo redo
-- 100% local mock AI offline no key needed
-
+#### [NODAL](https://github.com/franklinalegu/nodal) `TypeScript` `Next.js 14` `Tauri` `XYFlow`
+Private node studio Canvas is the product AI is the intelligence layer.
+19 nodes Brief to Research to Moodboard to Export | Infinite canvas autosave branching undo redo | 100% local mock AI offline no key needed
 **→ `npm install && npm run dev`**
 
-</td>
-<td width="33%" valign="top">
-
-#### [PlaylistVault](https://github.com/franklinalegu/playlistvault) <sup>`Electron`</sup>
-`React` `yt-dlp` `FFmpeg` `Vite`
-
-Responsible archival for content you own. Desktop fast honest.
-
-- 1000+ item flat extraction ~1s
-- 360p to 4K MP4 MKV WebM + MP3 FLAC WAV
-- Private deleted detection
-
+#### [PlaylistVault](https://github.com/franklinalegu/playlistvault) `Electron` `React` `yt-dlp`
+Responsible archival for content you own Desktop fast honest.
+1000+ item flat extraction ~1s | 360p to 4K MP4 MKV WebM + MP3 FLAC WAV | Private deleted detection
 **→ [Live playlistvault.vercel.app](https://playlistvault.vercel.app)**
 
-</td>
-<td width="33%" valign="top">
-
-#### [Tivora](https://github.com/franklinalegu/Tivora) <sup>`TypeScript`</sup>
-`Planning` `Systems`
-
-Bridge between planning and execution. Ideas to action to outcomes.
-
-- Structured workflows
-- Measurable outcomes
-- Sustainable growth focus
-
+#### [Tivora](https://github.com/franklinalegu/Tivora) `TypeScript` `Planning`
+Bridge between planning and execution Ideas to action to outcomes.
+Structured workflows | Measurable outcomes | Sustainable growth focus
 **→ Early feedback welcome**
-
-</td>
-</tr>
-</table>
 
 > More [franklinportfolio](https://github.com/franklinalegu/franklinportfolio) | [promptor](https://github.com/franklinalegu/promptor) | [pvoiceofhope](https://github.com/franklinalegu/pvoiceofhope) | [productreveal](https://github.com/franklinalegu/productreveal)
 
