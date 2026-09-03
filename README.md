@@ -1,28 +1,31 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=160&section=header&text=Franklin%20Alegu&fontColor=ffffff&desc=Creative%20Technologist%20%E2%80%94%20Founder%20%40%20mrjamesbrand&descAlignY=52&fontSize=38" width="100%" />
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/portfolio-franklinalegu.com-black?style=flat-square)](https://franklinalegu.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Ffranklinalegu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklinalegu/)
-[![Location](https://img.shields.io/badge/Nigeria-%E2%80%A2%20Remote-10b981?style=flat-square)](https://github.com/franklinalegu)
-[![Focus](https://img.shields.io/badge/focus-local--first%20%7C%20brand%20systems%20%7C%20web-black?style=flat-square)]()
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=130&section=header&text=Franklin%20Alegu&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-**I turn ideas into shipped products — local-first tools, brand systems, and web experiences.**
+### I am a Software Engineer shipping products that solve real problems
+
+`TypeScript` `Next.js` `Electron` `Tauri` · Founder **@mrjamesbrand** · Nigeria — Remote
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-franklinalegu.com-111111?style=for-the-badge)](https://franklinalegu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Ffranklinalegu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklinalegu/)
+[![Email](https://img.shields.io/badge/Available%20for%20work-10b981?style=for-the-badge)](https://www.linkedin.com/in/franklinalegu/)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Local-first+tools+%E2%80%A2+Brand+systems+%E2%80%A2+Web+platforms+%E2%80%A2+AI+workflows;Design+x+Engineering+x+AI+%E2%80%94+shipped+to+production" alt="typing" />
 
 </div>
 
 ---
 
-### 👋 Hi, I'm Franklin
+#### 👋 Hey — I'm Franklin
 
-Brand designer turned creative technologist. I build where **design × engineering × AI** intersect. Founder at **[mrjamesbrand Limited](https://franklinalegu.com)** — a brand and product studio for vision-driven teams.
+Software Engineer (product-focused). I design, build and ship — from brand systems to production web/desktop apps. Background in brand design, now full-stack.
 
-> **Current obsession:** making creative work less about disconnected files and more about connected workflows.
+**Currently:** Building **[NODAL](https://github.com/franklinalegu/nodal)** — private, local-first node canvas where creative work becomes a connected workflow (not a pile of files).
 
-- 🔨 Building **NODAL** — a private, local-first node canvas for brand work
-- 🎬 Shipped **PlaylistVault** — desktop app for archiving YouTube playlists you own
-- 🌉 Exploring **Tivora** — where planning becomes structured execution
-- 📍 Nigeria — working globally, available for product & brand collaborations
+- 🔨 **Building:** NODAL v0.1.5 · local-first, 19 node types, Tauri desktop
+- ✅ **Shipped:** [PlaylistVault](https://github.com/franklinalegu/playlistvault) — Electron app that archives YouTube playlists you own (1000+ items, 4K/audio)
+- 🧩 **Exploring:** [Tivora](https://github.com/franklinalegu/Tivora) — planning → structured execution
+- 🌍 Nigeria · working globally
 
 ---
 
@@ -32,100 +35,99 @@ Brand designer turned creative technologist. I build where **design × engineeri
 <tr>
 <td width="33%" valign="top">
 
-**[NODAL](https://github.com/franklinalegu/nodal)** — `v0.1.5`
-> Creative intelligence, connected. Private node studio — canvas is the product, AI is the intelligence layer.
-
+#### [NODAL](https://github.com/franklinalegu/nodal) <sup>`TypeScript`</sup>
 `Next.js 14` `Tauri` `XYFlow` `Zustand`
 
-* 19 node types: Brief → Research → Strategy → Moodboard → Export
-* Infinite canvas, undo/redo, autosave, branching
-* 100% local — mock AI works offline, no API key needed
+Private node studio. Canvas is the product, AI is the intelligence layer.
 
-→ `npm install && npm run dev`
+- 19 nodes: Brief → Research → Moodboard → Export
+- Infinite canvas, autosave, branching, undo/redo
+- 100% local — mock AI offline, no key needed
 
-</td>
-<td width="33%" valign="top">
-
-**[PlaylistVault](https://github.com/franklinalegu/playlistvault)** — Desktop
-> Archive YouTube playlists you have permission to save — for offline viewing.
-
-`Electron` `React` `TypeScript` `yt-dlp` `FFmpeg`
-
-* 1000+ item flat extraction in ~1s
-* 360p–4K / MP4/MKV/WebM + MP3/M4A/Opus/FLAC
-* Private/deleted video detection
-
-→ **[Live: playlistvault.vercel.app](https://playlistvault.vercel.app)**
+**→ `npm install && npm run dev`**
 
 </td>
 <td width="33%" valign="top">
 
-**[Tivora](https://github.com/franklinalegu/Tivora)**
-> The bridge between planning and execution.
+#### [PlaylistVault](https://github.com/franklinalegu/playlistvault) <sup>`Electron`</sup>
+`React` `yt-dlp` `FFmpeg` `Vite`
 
-`TypeScript`
+Responsible archival for content you own. Desktop, fast, honest.
 
-* Ideas → structured action → measurable outcomes
-* Built for sustainable growth, not just shipping
+- 1000+ item flat extraction ~1s
+- 360p–4K, MP4/MKV/WebM + MP3/FLAC/WAV
+- Private/deleted detection
 
-→ Early exploration — feedback welcome
+**→ [Live: playlistvault.vercel.app](https://playlistvault.vercel.app)**
+
+</td>
+<td width="33%" valign="top">
+
+#### [Tivora](https://github.com/franklinalegu/Tivora) <sup>`TypeScript`</sup>
+`Planning` `Systems`
+
+Bridge between planning and execution. Ideas → action → outcomes.
+
+- Structured workflows
+- Measurable outcomes
+- Sustainable growth focus
+
+**→ Early — feedback welcome**
 
 </td>
 </tr>
 </table>
 
-> More: **[franklinportfolio](https://github.com/franklinalegu/franklinportfolio)** — portfolio system · **[promptor](https://github.com/franklinalegu/promptor)** — prompt tooling · **[pvoiceofhope](https://github.com/franklinalegu/pvoiceofhope)** — web platform
+> More: [franklinportfolio](https://github.com/franklinalegu/franklinportfolio) · [promptor](https://github.com/franklinalegu/promptor) · [pvoiceofhope](https://github.com/franklinalegu/pvoiceofhope) · [productreveal](https://github.com/franklinalegu/productreveal)
 
 ---
 
 ### 🛠️ Stack
 
-**Product & Frontend:** `TypeScript` `React` `Next.js` `Tailwind` `Electron` `Tauri` `Svelte`  
-**Design:** `Brand Systems` `Design Systems` `Figma` `Affinity`  
-**AI / Automation:** `OpenAI-compatible APIs` `yt-dlp` `FFmpeg` `Local LLMs`  
-**Tooling:** `Node.js` `Prisma` `SQLite` `Git` `Vercel`
+<p align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+</p>
 
 ---
 
-### 📊 In the code
+### 📊 Proof of work
 
 <div align="center">
 
-![Franklin's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklinalegu&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinalegu&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=franklinalegu&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=9CA3AF&text_color=E5E7EB" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklinalegu&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=E5E7EB" width="49%" />
 
-![Streak](https://streak-stats.demolab.com?user=franklinalegu&theme=dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=franklinalegu&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=9CA3AF&fire=10B981&currStreakLabel=9CA3AF" width="70%" />
 
 </div>
 
-<details>
-<summary><b>What I'm focused on right now</b></summary>
-
-- NODAL: desktop bundling (Tauri), local SD/Ollama providers, export pipeline (ZIP/PDF/PNG)
-- PlaylistVault: queue reliability, format parity, installer signing
-- Writing about brand systems → product systems
-
-</details>
-
 ---
 
-### 🤝 Let's work
+### 🤝 Let's build
 
-I'm open to **product design + build** collaborations — brand-to-web, internal tools, and local-first AI workflows.
+Open to **product + engineering** collaborations — brand-to-web, internal tools, local-first AI.
 
-- **Portfolio:** [franklinalegu.com](https://franklinalegu.com)
-- **LinkedIn:** [in/franklinalegu](https://www.linkedin.com/in/franklinalegu/)
-- **GitHub:** `@franklinalegu` (you're here) — also [@Mrjamesbrand](https://github.com/Mrjamesbrand) (studio archive, 2020–)
-- **Email:** via LinkedIn or portfolio contact
-
-> If you landed here from a fork — the originals are above. Stars and feedback are appreciated.
-
----
+**→ [franklinalegu.com](https://franklinalegu.com) · [LinkedIn](https://www.linkedin.com/in/franklinalegu/) · [@Mrjamesbrand](https://github.com/Mrjamesbrand) (studio archive)**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=90&section=footer&text=&fontColor=ffffff" width="100%" />
+<sub>⭐ If you came from a fork — originals are pinned above. Stars / issues / feedback welcome.</sub>
 
-`Nigeria • Remote • Shipping weekly`
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=80&section=footer&text=&fontColor=ffffff" width="100%" />
+
+`Shipping weekly — Nigeria • Remote`
 
 </div>
