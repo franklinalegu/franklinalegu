@@ -4,32 +4,28 @@
 
 ### I am a Software Engineer shipping products that solve real problems
 
-`TypeScript` `Next.js` `Electron` `Tauri` · Founder **@mrjamesbrand** · Nigeria — Remote
+`TypeScript` `Next.js` `Electron` `Tauri` · Founder **@mrjamesbrand** · Nigeria Remote
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-franklinalegu.com-111111?style=for-the-badge)](https://franklinalegu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Ffranklinalegu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklinalegu/)
 [![Email](https://img.shields.io/badge/Available%20for%20work-10b981?style=for-the-badge)](https://www.linkedin.com/in/franklinalegu/)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Local-first+tools+%E2%80%A2+Brand+systems+%E2%80%A2+Web+platforms+%E2%80%A2+AI+workflows;Design+x+Engineering+x+AI+%E2%80%94+shipped+to+production" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Local-first+tools+%E2%80%A2+Brand+systems+%E2%80%A2+Web+platforms+%E2%80%A2+AI+workflows;Design+x+Engineering+x+AI+shipped+to+production" alt="typing" />
 
 </div>
 
----
+#### Hey I'm Franklin
 
-#### 👋 Hey — I'm Franklin
+Software Engineer product focused. I design, build and ship from brand systems to production web and desktop apps. Background in brand design, now full stack.
 
-Software Engineer (product-focused). I design, build and ship — from brand systems to production web/desktop apps. Background in brand design, now full-stack.
+**Currently** Building **[NODAL](https://github.com/franklinalegu/nodal)** private local first node canvas where creative work becomes a connected workflow not a pile of files.
 
-**Currently:** Building **[NODAL](https://github.com/franklinalegu/nodal)** — private, local-first node canvas where creative work becomes a connected workflow (not a pile of files).
+- Building NODAL v0.1.5 local first 19 node types Tauri desktop
+- Shipped [PlaylistVault](https://github.com/franklinalegu/playlistvault) Electron app that archives YouTube playlists you own 1000+ items 4K audio
+- Exploring [Tivora](https://github.com/franklinalegu/Tivora) planning to structured execution
+- Nigeria working globally
 
-- 🔨 **Building:** NODAL v0.1.5 · local-first, 19 node types, Tauri desktop
-- ✅ **Shipped:** [PlaylistVault](https://github.com/franklinalegu/playlistvault) — Electron app that archives YouTube playlists you own (1000+ items, 4K/audio)
-- 🧩 **Exploring:** [Tivora](https://github.com/franklinalegu/Tivora) — planning → structured execution
-- 🌍 Nigeria · working globally
-
----
-
-### 🚀 Featured — start here
+### Featured start here
 
 <table>
 <tr>
@@ -40,9 +36,9 @@ Software Engineer (product-focused). I design, build and ship — from brand sys
 
 Private node studio. Canvas is the product, AI is the intelligence layer.
 
-- 19 nodes: Brief → Research → Moodboard → Export
-- Infinite canvas, autosave, branching, undo/redo
-- 100% local — mock AI offline, no key needed
+- 19 nodes Brief to Research to Moodboard to Export
+- Infinite canvas autosave branching undo redo
+- 100% local mock AI offline no key needed
 
 **→ `npm install && npm run dev`**
 
@@ -52,13 +48,13 @@ Private node studio. Canvas is the product, AI is the intelligence layer.
 #### [PlaylistVault](https://github.com/franklinalegu/playlistvault) <sup>`Electron`</sup>
 `React` `yt-dlp` `FFmpeg` `Vite`
 
-Responsible archival for content you own. Desktop, fast, honest.
+Responsible archival for content you own. Desktop fast honest.
 
 - 1000+ item flat extraction ~1s
-- 360p–4K, MP4/MKV/WebM + MP3/FLAC/WAV
-- Private/deleted detection
+- 360p to 4K MP4 MKV WebM + MP3 FLAC WAV
+- Private deleted detection
 
-**→ [Live: playlistvault.vercel.app](https://playlistvault.vercel.app)**
+**→ [Live playlistvault.vercel.app](https://playlistvault.vercel.app)**
 
 </td>
 <td width="33%" valign="top">
@@ -66,23 +62,21 @@ Responsible archival for content you own. Desktop, fast, honest.
 #### [Tivora](https://github.com/franklinalegu/Tivora) <sup>`TypeScript`</sup>
 `Planning` `Systems`
 
-Bridge between planning and execution. Ideas → action → outcomes.
+Bridge between planning and execution. Ideas to action to outcomes.
 
 - Structured workflows
 - Measurable outcomes
 - Sustainable growth focus
 
-**→ Early — feedback welcome**
+**→ Early feedback welcome**
 
 </td>
 </tr>
 </table>
 
-> More: [franklinportfolio](https://github.com/franklinalegu/franklinportfolio) · [promptor](https://github.com/franklinalegu/promptor) · [pvoiceofhope](https://github.com/franklinalegu/pvoiceofhope) · [productreveal](https://github.com/franklinalegu/productreveal)
+> More [franklinportfolio](https://github.com/franklinalegu/franklinportfolio) · [promptor](https://github.com/franklinalegu/promptor) · [pvoiceofhope](https://github.com/franklinalegu/pvoiceofhope) · [productreveal](https://github.com/franklinalegu/productreveal)
 
----
-
-### 🛠️ Stack
+### Stack
 
 <p align="center">
 
@@ -99,9 +93,7 @@ Bridge between planning and execution. Ideas → action → outcomes.
 
 </p>
 
----
-
-### 📊 Proof of work
+### Proof of work
 
 <div align="center">
 
@@ -112,22 +104,20 @@ Bridge between planning and execution. Ideas → action → outcomes.
 
 </div>
 
----
+### Lets build
 
-### 🤝 Let's build
+Open to product and engineering collaborations brand to web internal tools local first AI.
 
-Open to **product + engineering** collaborations — brand-to-web, internal tools, local-first AI.
-
-**→ [franklinalegu.com](https://franklinalegu.com) · [LinkedIn](https://www.linkedin.com/in/franklinalegu/) · [@Mrjamesbrand](https://github.com/Mrjamesbrand) (studio archive)**
+**→ [franklinalegu.com](https://franklinalegu.com) · [LinkedIn](https://www.linkedin.com/in/franklinalegu/) · [@Mrjamesbrand](https://github.com/Mrjamesbrand) studio archive**
 
 <div align="center">
 
-<sub>⭐ If you came from a fork — originals are pinned above. Stars / issues / feedback welcome.</sub>
+<sub>⭐ If you came from a fork originals are pinned above. Stars issues feedback welcome.</sub>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=80&section=footer&text=&fontColor=ffffff" width="100%" />
 
-`Shipping weekly — Nigeria • Remote`
+`Shipping weekly Nigeria Remote`
 
 </div>
