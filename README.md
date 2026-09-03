@@ -27,40 +27,28 @@ Software Engineer product focused. I do web development and I build systems and 
 - Exploring [Tivora](https://github.com/franklinalegu/Tivora) structure for planning to execution
 - Web development and systems for startups and growing teams | Nigeria working globally
 
-### Featured start here
+### Featured
 
-#### [NODAL](https://github.com/franklinalegu/nodal) `TypeScript` `Next.js 14` `Tauri` `XYFlow`
-Private node studio Canvas is the product AI is the intelligence layer.
-19 nodes Brief to Research to Moodboard to Export | Infinite canvas autosave branching undo redo | 100% local mock AI offline no key needed
-**→ `npm install && npm run dev`**
+<div align="center">
 
-#### [PlaylistVault](https://github.com/franklinalegu/playlistvault) `Electron` `React` `yt-dlp`
-Responsible archival for content you own Desktop fast honest.
-1000+ item flat extraction ~1s | 360p to 4K MP4 MKV WebM + MP3 FLAC WAV | Private deleted detection
-**→ [Live playlistvault.vercel.app](https://playlistvault.vercel.app)**
+[![NODAL](https://github-readme-stats.vercel.app/api/pin/?username=franklinalegu&repo=nodal&theme=transparent&hide_border=true&title_color=ffffff&text_color=9CA3AF&icon_color=10b981)](https://github.com/franklinalegu/nodal)
+[![PlaylistVault](https://github-readme-stats.vercel.app/api/pin/?username=franklinalegu&repo=playlistvault&theme=transparent&hide_border=true&title_color=ffffff&text_color=9CA3AF&icon_color=10b981)](https://github.com/franklinalegu/playlistvault)
 
-#### [Tivora](https://github.com/franklinalegu/Tivora) `TypeScript` `Planning`
-Bridge between planning and execution Ideas to action to outcomes.
-Structured workflows | Measurable outcomes | Sustainable growth focus
-**→ Early feedback welcome**
+[![Tivora](https://github-readme-stats.vercel.app/api/pin/?username=franklinalegu&repo=Tivora&theme=transparent&hide_border=true&title_color=ffffff&text_color=9CA3AF&icon_color=10b981)](https://github.com/franklinalegu/Tivora)
+[![franklinportfolio](https://github-readme-stats.vercel.app/api/pin/?username=franklinalegu&repo=franklinportfolio&theme=transparent&hide_border=true&title_color=ffffff&text_color=9CA3AF&icon_color=10b981)](https://github.com/franklinalegu/franklinportfolio)
 
-> More [franklinportfolio](https://github.com/franklinalegu/franklinportfolio) | [promptor](https://github.com/franklinalegu/promptor) | [pvoiceofhope](https://github.com/franklinalegu/pvoiceofhope) | [productreveal](https://github.com/franklinalegu/productreveal)
+</div>
+
+> Web Development and Systems | More [promptor](https://github.com/franklinalegu/promptor) | [pvoiceofhope](https://github.com/franklinalegu/pvoiceofhope) | [productreveal](https://github.com/franklinalegu/productreveal)
 
 ### Stack
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-<img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,prisma,figma,vercel,git&theme=dark" /></a>
+  <br/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
+  <img src="https://img.shields.io/badge/XYFlow-ff5a79?style=flat-square" />
 </p>
 
 ### Proof of work
@@ -71,6 +59,12 @@ Structured workflows | Measurable outcomes | Sustainable growth focus
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklinalegu&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=E5E7EB" width="49%" />
 
 <img src="https://streak-stats.demolab.com?user=franklinalegu&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=9CA3AF&fire=10B981&currStreakLabel=9CA3AF" width="70%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franklinalegu/franklinalegu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/franklinalegu/franklinalegu/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/franklinalegu/franklinalegu/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
