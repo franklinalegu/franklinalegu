@@ -4,26 +4,28 @@
 
 ### I am a Software Engineer shipping products that solve real problems
 
-`TypeScript` `Next.js` `Electron` `Tauri` | Founder **@mrjamesbrand** | Nigeria Remote
+`Web Development` `Systems` `Structures` | `TypeScript` `Next.js` `Electron` `Tauri` | Founder **@mrjamesbrand** | Nigeria Remote
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-franklinalegu.com-111111?style=for-the-badge)](https://franklinalegu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Ffranklinalegu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklinalegu/)
 [![Email](https://img.shields.io/badge/Available%20for%20work-10b981?style=for-the-badge)](https://www.linkedin.com/in/franklinalegu/)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Local-first+tools+%E2%80%A2+Brand+systems+%E2%80%A2+Web+platforms+%E2%80%A2+AI+workflows;Design+x+Engineering+x+AI+shipped+to+production" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=9CA3AF&center=true&vCenter=true&width=650&lines=Web+Development+%7C+Building+Systems+and+Structures+that+scale;Local-first+tools+%7C+Web+platforms+%7C+AI+workflows;Design+x+Engineering+x+AI+shipped+to+production" alt="typing" />
 
 </div>
 
 #### Hey I'm Franklin
 
-Software Engineer product focused. I design, build and ship from brand systems to production web and desktop apps. Background in brand design, now full stack.
+Software Engineer product focused. I do web development and I build systems and structures that scale from brand systems to production web and desktop apps. Background in brand design now full stack.
+
+**Focus** Web development | Building systems and structures | Local first tools | AI workflows
 
 **Currently** Building **[NODAL](https://github.com/franklinalegu/nodal)** private local first node canvas where creative work becomes a connected workflow not a pile of files.
 
-- Building NODAL v0.1.5 local first 19 node types Tauri desktop
-- Shipped [PlaylistVault](https://github.com/franklinalegu/playlistvault) Electron app that archives YouTube playlists you own 1000+ items 4K audio
-- Exploring [Tivora](https://github.com/franklinalegu/Tivora) planning to structured execution
-- Nigeria working globally
+- Building NODAL v0.1.5 local first 19 node types Tauri desktop systems and structures for creative teams
+- Shipped [PlaylistVault](https://github.com/franklinalegu/playlistvault) web and desktop system that archives YouTube playlists you own 1000+ items 4K audio
+- Exploring [Tivora](https://github.com/franklinalegu/Tivora) structure for planning to execution
+- Web development and systems for startups and growing teams | Nigeria working globally
 
 ### Featured start here
 
@@ -74,7 +76,7 @@ Structured workflows | Measurable outcomes | Sustainable growth focus
 
 ### Lets build
 
-Open to product and engineering collaborations brand to web internal tools local first AI.
+Open to web development and systems collaborations. I help teams build web platforms and structures that last brand to web internal tools local first AI.
 
 **→ [franklinalegu.com](https://franklinalegu.com) | [LinkedIn](https://www.linkedin.com/in/franklinalegu/) | [@Mrjamesbrand](https://github.com/Mrjamesbrand) studio archive**
 
