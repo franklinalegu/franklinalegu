@@ -4,7 +4,7 @@
 
 ### I am a Software Engineer shipping products that solve real problems
 
-`TypeScript` `Next.js` `Electron` `Tauri` · Founder **@mrjamesbrand** · Nigeria Remote
+`TypeScript` `Next.js` `Electron` `Tauri` | Founder **@mrjamesbrand** | Nigeria Remote
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-franklinalegu.com-111111?style=for-the-badge)](https://franklinalegu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Ffranklinalegu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklinalegu/)
@@ -74,7 +74,7 @@ Bridge between planning and execution. Ideas to action to outcomes.
 </tr>
 </table>
 
-> More [franklinportfolio](https://github.com/franklinalegu/franklinportfolio) · [promptor](https://github.com/franklinalegu/promptor) · [pvoiceofhope](https://github.com/franklinalegu/pvoiceofhope) · [productreveal](https://github.com/franklinalegu/productreveal)
+> More [franklinportfolio](https://github.com/franklinalegu/franklinportfolio) | [promptor](https://github.com/franklinalegu/promptor) | [pvoiceofhope](https://github.com/franklinalegu/pvoiceofhope) | [productreveal](https://github.com/franklinalegu/productreveal)
 
 ### Stack
 
@@ -108,7 +108,7 @@ Bridge between planning and execution. Ideas to action to outcomes.
 
 Open to product and engineering collaborations brand to web internal tools local first AI.
 
-**→ [franklinalegu.com](https://franklinalegu.com) · [LinkedIn](https://www.linkedin.com/in/franklinalegu/) · [@Mrjamesbrand](https://github.com/Mrjamesbrand) studio archive**
+**→ [franklinalegu.com](https://franklinalegu.com) | [LinkedIn](https://www.linkedin.com/in/franklinalegu/) | [@Mrjamesbrand](https://github.com/Mrjamesbrand) studio archive**
 
 <div align="center">
 
